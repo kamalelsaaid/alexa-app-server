@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kamalelsaaid/alexa-app-server/issues"
   },
-  "homepage": "https://github.com/kamalelsaaid/alexa-app-server#readme"
+  "homepage": "https://github.com/kamalelsaaid/alexa-app-server#readme",
+  "dependencies": {
+    "alexa-app": "^4.2.1"
+  }
 }
